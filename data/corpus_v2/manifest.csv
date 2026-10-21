@@ -1,0 +1,29 @@
+file,pg_id,title,author,translator,first_published,genre,start,end,notes
+pride_and_prejudice.txt,1342,Pride and Prejudice,Jane Austen,,1813,fiction,It is a truth universally acknowledged,been the means of uniting them,
+don_quixote.txt,996,Don Quixote,Miguel de Cervantes,John Ormsby,1605,fiction,In a village of La Mancha,doomed to fall for ever Farewell,both parts; prologues and commendatory verses excluded
+origin_of_species.txt,1228,On the Origin of Species,Charles Darwin,,1859,nonfiction,When on board H M S Beagle as naturalist,and are being evolved,1st edition; author's Introduction included; index excluded
+voyage_of_the_beagle.txt,944,The Voyage of the Beagle,Charles Darwin,,1839,nonfiction,The neighbourhood of Porto Praya,offer him the most disinterested assistance,footnotes removed
+david_copperfield.txt,766,David Copperfield,Charles Dickens,,1850,fiction,Whether I shall turn out to be the hero of my own life,still find thee near me pointing upward,prefaces excluded
+great_expectations.txt,1400,Great Expectations,Charles Dickens,,1861,fiction,My father s family name being Pirrip,I saw no shadow of another parting from her,
+oliver_twist.txt,730,Oliver Twist,Charles Dickens,,1838,fiction,Among other public buildings in a certain town,she was weak and erring,
+ulysses.txt,4300,Ulysses,James Joyce,,1922,fiction,Stately plump Buck Mulligan,yes I said yes I will Yes,
+the_jungle.txt,140,The Jungle,Upton Sinclair,,1906,fiction,It was four o clock when the ceremony was over,CHICAGO WILL BE OURS,was listed as Kipling's The Jungle Book in the v1 corpus
+moby_dick.txt,2701,Moby Dick,Herman Melville,,1851,fiction,Call me Ishmael,only found another orphan,Etymology and Extracts excluded; Epilogue included
+war_and_peace.txt,2600,War and Peace,Leo Tolstoy,Louise and Aylmer Maude,1869,fiction,Well Prince so Genoa and Lucca,a dependence of which we are not conscious,both epilogues included
+huckleberry_finn.txt,76,Adventures of Huckleberry Finn,Mark Twain,,1884,fiction,You don t know about me without you have read,I been there before,new in v2
+tom_sawyer.txt,74,The Adventures of Tom Sawyer,Mark Twain,,1876,fiction,No answer,any of that part of their lives at present,author's Conclusion included
+dorian_gray.txt,174,The Picture of Dorian Gray,Oscar Wilde,,1891,fiction,The studio was filled with the rich odour of roses,that they recognized who it was,1891 edition (20 chapters); author's Preface excluded
+analysis_of_mind.txt,2529,The Analysis of Mind,Bertrand Russell,,1921,nonfiction,There are certain occurrences which we are in the habit of calling,psychology is nearer to what actually exists,Preface excluded
+life_on_the_mississippi.txt,245,Life on the Mississippi,Mark Twain,,1883,nonfiction,THE Mississippi is well worth reading about It is not a commonplace river,the good fortune to make,appendices excluded
+middlemarch.txt,145,Middlemarch,George Eliot,,1871,fiction,Who that cares much to know the history of man,rest in unvisited tombs,Prelude and Finale included
+vanity_fair.txt,599,Vanity Fair,William Makepeace Thackeray,,1848,fiction,While the present century was in its teens,for our play is played out,Before the Curtain excluded
+the_rainbow.txt,28948,The Rainbow,D. H. Lawrence,,1915,fiction,The Brangwens had lived for generations on the Marsh Farm,fitting to the over arching heaven,
+jane_eyre.txt,1260,Jane Eyre,Charlotte Bronte,,1847,fiction,There was no possibility of taking a walk that day,even so come Lord Jesus,Preface excluded
+wuthering_heights.txt,768,Wuthering Heights,Emily Bronte,,1847,fiction,I have just returned from a visit to my landlord,for the sleepers in that quiet earth,
+dracula.txt,345,Dracula,Bram Stoker,,1897,fiction,Left Munich at,that they did dare much for her sake,closing Note included; publisher's list excluded
+frankenstein.txt,84,Frankenstein,Mary Shelley,,1818,fiction,You will rejoice to hear that no disaster,lost in darkness and distance,opening letters included
+tess_of_the_durbervilles.txt,110,Tess of the d'Urbervilles,Thomas Hardy,,1891,fiction,On an evening in the latter part of May a middle aged man,joined hands again and went on,
+island_life.txt,32021,Island Life,Alfred Russel Wallace,,1880,nonfiction,When an Englishman travels by the nearest sea route,we see everywhere around us is not without a plan,prefaces; index and footnotes excluded; Appendix to Chapter XX (author) included
+psychology_briefer_course.txt,55262,Psychology: Briefer Course,William James,,1892,nonfiction,The definition of Psychology may be best given,are provisional and revisable things,Preface; index and footnotes excluded
+theory_of_moral_sentiments.txt,67363,The Theory of Moral Sentiments,Adam Smith,,1759,nonfiction,How selfish soever man may be supposed,any further detail concerning the history of jurisprudence,footnotes removed
+system_of_logic.txt,27942,A System of Logic,John Stuart Mill,,1843,nonfiction,There is as great diversity among authors in the modes,will have been in some degree forwarded,prefaces and footnotes excluded; author's Introduction included

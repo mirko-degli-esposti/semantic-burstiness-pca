@@ -1,0 +1,11 @@
+Result tables (results_v2/), figures (figures_v2/) and the corpus manifest
+(data/corpus_v2/manifest.csv) in this repository are
+licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+Copyright (c) 2026 Mirko Degli Esposti and Marcelo A. Montemurro
+
+The literary and scientific texts in data/ are public-domain works obtained
+from Project Gutenberg (https://www.gutenberg.org); the Gutenberg header,
+footer and licence text have been removed. The GloVe vectors are not
+redistributed here (see https://nlp.stanford.edu/projects/glove/).
