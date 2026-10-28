@@ -1,11 +1,13 @@
 ![Banner](banner.svg)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23540331.svg)](https://doi.org/10.5281/zenodo.23540331)
+
 Code and data for
 
 > M. Degli Esposti, M. A. Montemurro
 > **Semantic burstiness across principal directions of textual variation**
 > submitted to *Physica A: Statistical Mechanics and its Applications* (2026)
-> arXiv: *to be added*
+> arXiv: [2610.34188](https://arxiv.org/abs/2610.34188)
 
 Every number, table and figure in the paper and its Supplementary Material is
 produced by the scripts in this repository from the texts in `data/corpus_v2/`.
@@ -160,6 +162,8 @@ Please cite the article and, for the code and data, this archive (see
   title   = {Semantic burstiness across principal directions of textual variation},
   journal = {Physica A: Statistical Mechanics and its Applications},
   year    = {2026},
+  eprint  = {2610.34188},
+  archivePrefix = {arXiv},
   note    = {submitted}
 }
 ```

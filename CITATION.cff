@@ -1,10 +1,11 @@
 cff-version: 1.2.0
 message: "If you use this software or data, please cite the article and this archive."
-title: "semantic-burstiness-texts: code and data for 'Semantic burstiness across principal directions of textual variation'"
+title: "semantic-burstiness-pca: code and data for 'Semantic burstiness across principal directions of textual variation'"
 type: software
 version: 1.0.0
 date-released: 2026-10-19
 license: MIT
+doi: 10.5281/zenodo.23540331
 repository-code: "https://github.com/mirko-degli-esposti/semantic-burstiness-pca"
 authors:
   - family-names: Degli Esposti
